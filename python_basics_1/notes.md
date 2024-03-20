@@ -80,4 +80,3 @@ python_Basics_chapter_4
     datatype assingn in memory in python not in variable
 
     import copy.copy , deepcopy
-    

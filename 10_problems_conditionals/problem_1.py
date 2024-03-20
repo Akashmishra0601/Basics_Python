@@ -1,6 +1,6 @@
 # problem - 1 - age group categorization 
 
-age = int(input("Pls Enter Age: "))
+age = int(input("Pls Enter Age: \n"))
 
 if age < 13:
     print("child")
